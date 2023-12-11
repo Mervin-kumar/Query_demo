@@ -1,11 +1,56 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1", "content": "Content for post 1" },
-      { "id": 2, "title": "Post 2", "content": "Content for post 2" }
-    ],
-    "comments": [
-      { "id": 1, "postId": 1, "text": "Comment on post 1" },
-      { "id": 2, "postId": 2, "text": "Comment on post 2" }
-    ]
+    "flowers": [
+        {
+          "id": 1,
+          "name": "Rose",
+          "color": "Red"
+        },
+        {
+          "id": 2,
+          "name": "Tulip",
+          "color": "Yellow"
+        },
+        {
+          "id": 3,
+          "name": "Lily",
+          "color": "White"
+        },
+        {
+          "id": 4,
+          "name": "Daisy",
+          "color": "Pink"
+        },
+        {
+          "id": 5,
+          "name": "Sunflower",
+          "color": "Yellow"
+        },
+        {
+          "id": 6,
+          "name": "Carnation",
+          "color": "Red"
+        },
+        {
+          "id": 7,
+          "name": "Hydrangea",
+          "color": "Blue"
+        },
+        {
+          "id": 8,
+          "name": "Orchid",
+          "color": "Purple"
+        },
+        {
+          "id": 9,
+          "name": "Dandelion",
+          "color": "Yellow"
+        },
+        {
+          "id": 10,
+          "name": "Iris",
+          "color": "Blue"
+        }
+      ]
+      
   }
   
